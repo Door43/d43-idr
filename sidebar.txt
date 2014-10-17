@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[idr:home|Door43 (idr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-idr|d43-idr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-idr/archive/master.zip|d43-idr.zip]]
+
+**Recent Changes**
+{{changes>ns = idr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/idr|Ethnologue data]]
+
